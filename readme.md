@@ -8,18 +8,31 @@ This project aims to predict the **purchase value** of users based on their sess
 
 .
 ├── data/ # Raw or demo input data (optional)
+
 ├── notebooks/
+
 │ └── final_model.ipynb # Final Jupyter notebook
+
 ├── models/
+
 │ ├── final_model.pkl # Trained stacked model
+
 │ └── preprocessor.pkl # Trained preprocessing pipeline
+
 ├── reports/
+
 │ └── summary_report.pdf # Final project summary
+
 ├── visuals/
+
 │ ├── model_comparison.png # Comparison plot of models
+
 │ └── shap_summary.png # SHAP feature importance plot
+
 ├── requirements.txt
+
 ├── LICENSE (MIT)
+
 └── README.md
 
 
